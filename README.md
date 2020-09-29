@@ -1,5 +1,9 @@
 # hi there!
 
+- I'm currently working on **videoclub**, a new movie ranking website,
+- I'm currently learning **Rust** (and I've been, for the last years :D)
+- I'm more active at [GitLab](https://gitlab.com/Uinelj
+)
 <a href="https://github.com/uinelj/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=uinelj&show_icons=true&theme=great-gatsby" />
 </a>
