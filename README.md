@@ -1,6 +1,8 @@
+# hi there!
+
 [![uj's github stats](https://github-readme-stats.vercel.app/api?username=uinelj&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uinelj&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uinelj&theme=great-gatsby)]
 <!--
 **Uinelj/Uinelj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
