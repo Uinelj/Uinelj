@@ -8,7 +8,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=uinelj&show_icons=true&theme=great-gatsby" />
 </a>
 <a href="https://github.com/uinelj/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uinelj&theme=great-gatsby" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uinelj&theme=great-gatsby&langs_count=10&hide=C,HLSL,VHDL" />
 </a>
 
 <!--
