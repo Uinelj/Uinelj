@@ -1,9 +1,9 @@
 # hi there!
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/uinelj/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=uinelj&show_icons=true&theme=great-gatsby" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/uinelj/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uinelj&theme=great-gatsby" />
 </a>
 
