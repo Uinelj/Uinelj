@@ -1,7 +1,6 @@
 # hi there!
 
 - 🔭 I’m currently working on Big Data and NLP!
-- 🌱 I’m currently learning NLP-related tools!
 - 📫 How to reach me: My [website](https://ujj.space) or [twitter](https://twitter.com/uinelj) :)
 
 <a href="https://github.com/uinelj/">
