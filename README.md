@@ -1,14 +1,11 @@
 # hi there!
 
-- I'm currently working on **videoclub**, a new movie ranking website,
-- I'm currently learning **Rust** (and I've been, for the last years :D)
-- I'm more active at [GitLab](https://gitlab.com/Uinelj
-)
+- 🔭 I’m currently working on Big Data and NLP!
+- 🌱 I’m currently learning NLP-related tools!
+- 📫 How to reach me: My [website](https://ujj.space) or [twitter](https://twitter.com/uinelj)
+
 <a href="https://github.com/uinelj/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=uinelj&show_icons=true&theme=great-gatsby" />
-</a>
-<a href="https://github.com/uinelj/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uinelj&theme=great-gatsby&langs_count=10&hide=C,HLSL,VHDL" />
 </a>
 
 <!--
