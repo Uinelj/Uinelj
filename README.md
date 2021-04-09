@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Big Data and NLP!
 - 🌱 I’m currently learning NLP-related tools!
-- 📫 How to reach me: My [website](https://ujj.space) or [twitter](https://twitter.com/uinelj)
+- 📫 How to reach me: My [website](https://ujj.space) or [twitter](https://twitter.com/uinelj) :)
 
 <a href="https://github.com/uinelj/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=uinelj&show_icons=true&theme=great-gatsby" />
